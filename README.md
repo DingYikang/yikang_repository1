@@ -1,2 +1,2 @@
-# my_repository1
+# VSLAM-prac
 This repository is all about SLAM/ VIO/ VO.
